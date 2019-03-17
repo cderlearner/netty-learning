@@ -1,0 +1,10 @@
+/Users/linjiaxing/Documents/github/netty-learning/netty-chat/src/main/java/learning/chat/server/handler/LoginHandler.java
+/Users/linjiaxing/Documents/github/netty-learning/netty-chat/src/main/java/learning/chat/session/Session.java
+/Users/linjiaxing/Documents/github/netty-learning/netty-chat/src/main/java/learning/chat/protocol/MsgType.java
+/Users/linjiaxing/Documents/github/netty-learning/netty-chat/src/main/java/learning/chat/server/NettyServer.java
+/Users/linjiaxing/Documents/github/netty-learning/netty-chat/src/main/java/learning/chat/protocol/c2s/CSLoginMsg.java
+/Users/linjiaxing/Documents/github/netty-learning/netty-chat/src/main/java/learning/chat/protocol/s2c/SCLoginMsg.java
+/Users/linjiaxing/Documents/github/netty-learning/netty-chat/src/main/java/learning/chat/session/SessionManager.java
+/Users/linjiaxing/Documents/github/netty-learning/netty-chat/src/main/java/learning/chat/protocol/Serializer.java
+/Users/linjiaxing/Documents/github/netty-learning/netty-chat/src/main/java/learning/chat/protocol/BaseMsg.java
+/Users/linjiaxing/Documents/github/netty-learning/netty-chat/src/main/java/learning/chat/session/Attributes.java
